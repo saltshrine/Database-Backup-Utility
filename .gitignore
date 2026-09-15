@@ -1,0 +1,11 @@
+# Binary executable
+db-backup
+db-backup.exe
+
+# Folder hasil backup
+backups/
+*.dump
+*.sql
+
+# File lingkungan/rahasia
+.env
